@@ -1,7 +1,7 @@
 # Sensirion Embedded I2C SVM41 Driver
 
-This is a generic embedded driver for the Sensirion SVM41 sensor module. It enables developers to communicate with the
-SVM41 sensor module on different hardware platforms by only adapting the I2C communication related source files.
+This is a generic embedded driver for the [Sensirion SVM41 Sensor Module](https://www.sensirion.com/my-sgp-ek/).
+It enables developers to communicate with the SVM41 sensor module on different hardware platforms by only adapting the I2C communication related source files.
 
 <center><img src="images/SVM41.png" width="500px"></center>
 
